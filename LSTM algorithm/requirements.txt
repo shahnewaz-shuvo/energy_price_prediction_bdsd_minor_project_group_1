@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+optuna
+matplotlib
+seaborn
+jupyter
+ipykernel
