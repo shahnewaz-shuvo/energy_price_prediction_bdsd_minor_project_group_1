@@ -1,4 +1,4 @@
-# FFNN_Shah
+# FFNN_algorithm
 
 Feed-forward neural network forecasting Dutch day-ahead electricity price. This is the
 most complete of the three model folders: a proper src/ package, walk-forward CV, a

@@ -12,7 +12,7 @@ a shared pre-processing pipeline.
 - [Data pre-processing/](Data%20pre-processing/README.md) - cleans raw data into `regime_B_clean.csv`
 - [LSTM algorithm/](LSTM%20algorithm/README.md) - uni-directional LSTM, Jupyter notebook
 - [Bi-LSTM algorithm/](Bi-LSTM%20algorithm/README.md) - bidirectional LSTM, plain script
-- [FFNN_Shah/](FFNN_Shah/README.md) - feed-forward NN, full src/ package and saved artefacts
+- [FFNN_algorithm/](FFNN_algorithm/README.md) - feed-forward NN, full src/ package and saved artefacts
 
 Each model folder has its own README.md and requirements.txt. They're independent
 (separate venvs), since each one uses a different library mix and dataset snapshot.

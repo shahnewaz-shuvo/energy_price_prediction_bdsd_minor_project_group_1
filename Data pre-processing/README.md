@@ -2,7 +2,7 @@
 
 Pipeline that turns raw ENTSO-E and weather API exports into the cleaned
 regime_B_clean.csv used by all three model folders (LSTM algorithm, Bi-LSTM algorithm,
-FFNN_Shah).
+FFNN_algorithm).
 
 ## Pipeline order
 
